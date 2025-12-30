@@ -40,6 +40,3 @@ public class ShoppingCart {
         return sum;
     }
 }
-
-
-
